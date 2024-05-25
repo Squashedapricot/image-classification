@@ -21,4 +21,7 @@ Follow these steps to set up your environment:
 ## Results Plot
 
 1. **Plot:** 1
-[![]()]
+[![](https://github.com/Squashedapricot/image-classification/blob/master/plots/img_1.png)]
+
+2. **Plot:** 2
+[![](https://github.com/Squashedapricot/image-classification/blob/master/plots/img_2.png)]
