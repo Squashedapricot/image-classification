@@ -13,7 +13,12 @@ Follow these steps to set up your environment:
 
 ### Results
 
-1. **Training Acuraccy of model:** Approx 94%
+1. **Training Accuracy of model:** Approx 94%
 2. **Training loss of model:** 0.18
-3. **Test Acuraccy of model:** Approx 76%
+3. **Test Accuracy of model:** Approx 76%
 4. **Test loss of model:** 0.74
+
+## Results Plot
+
+1. **Plot:** 1
+[![]()]
