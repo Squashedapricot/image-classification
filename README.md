@@ -9,7 +9,8 @@ Follow these steps to set up your environment:
 1. **Clone the repository:** This will download the project files to your computer.
 2. **Navigate to the project directory:** Use your terminal to move to the folder where the project files are saved.
 3. **Install dependencies:** Run the command `pip install -r requirements.txt` to install all the necessary libraries the project uses.
-4. **Launch Jupyter Notebook:** Open the project in a user-friendly interface by running `jupyter-notebook` in your terminal.
+     (For Mac User use the run `pip install -r mac_OS_requirements_file/requirements.txt`)
+5. **Launch Jupyter Notebook:** Open the project in a user-friendly interface by running `jupyter-notebook` in your terminal.
 
 ### Results
 
