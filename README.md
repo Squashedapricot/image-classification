@@ -17,11 +17,3 @@ Follow these steps to set up your environment:
 2. **Training loss of model:** 0.18
 3. **Test Accuracy of model:** Approx 76%
 4. **Test loss of model:** 0.74
-
-## Results Plot
-
-1. **Plot:** 1
-[![](https://github.com/Squashedapricot/image-classification/blob/master/plots/img_1.png)]
-
-2. **Plot:** 2
-[![](https://github.com/Squashedapricot/image-classification/blob/master/plots/img_2.png)]
