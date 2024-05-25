@@ -15,5 +15,5 @@ Follow these steps to set up your environment:
 
 1. **Training Acuraccy of model:** Approx 94%
 2. **Training loss of model:** 0.18
-3. **Test Acuraccy of model:** Aprox 76%
+3. **Test Acuraccy of model:** Approx 76%
 4. **Test loss of model:** 0.74
